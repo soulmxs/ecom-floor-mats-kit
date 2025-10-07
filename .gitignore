@@ -1,0 +1,5 @@
+# Ignore temporary and private files
+*.tmp
+*.bak
+*.zip
+*.rar
