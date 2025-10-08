@@ -21,3 +21,12 @@ It includes invoice samples, CN22 / CN23 customs forms, packaging notes, and shi
 
 ### 🌍 Author
 [beep-beep.co.il](https://beep-beep.co.il)  •  [@soulmxs](https://t.me/soulmxs)
+
+---
+
+### 🗺️ Project board
+Track project progress → [E-Com Kit Roadmap](../../projects)
+
+### 📋 Open tasks
+View active issues → [Issues](../../issues)
+
