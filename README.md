@@ -31,3 +31,6 @@ Track project progress → [E-Com Kit Roadmap](../../projects)
 View active issues → [Issues](../../issues)
 
 _Last updated: 2025-10-09_
+
+_Update: minor style and stats added (2025-10-12)_
+
