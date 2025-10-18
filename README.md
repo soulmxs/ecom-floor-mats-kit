@@ -1,5 +1,9 @@
 # 🛠️ E-Com Floor-Mats Kit
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Issues](https://img.shields.io/github/issues/soulmxs/ecom-floor-mats-kit)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
 A collection of **templates and resources** I use for my car-mats e-commerce business.  
 It includes invoice samples, CN22 / CN23 customs forms, packaging notes, and shipping-weight calculators.
 
