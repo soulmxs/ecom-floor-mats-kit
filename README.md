@@ -1,5 +1,11 @@
 # 🛠️ E-Com Floor-Mats Kit
 
+![GitHub last commit](https://img.shields.io/github/last-commit/soulmxs/crypto-ops-playbook?color=brightgreen)
+![GitHub issues](https://img.shields.io/github/issues/soulmxs/crypto-ops-playbook)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/soulmxs/crypto-ops-playbook)
+![GitHub Repo stars](https://img.shields.io/github/stars/soulmxs/crypto-ops-playbook?style=social)
+![GitHub License](https://img.shields.io/github/license/soulmxs/crypto-ops-playbook)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Issues](https://img.shields.io/github/issues/soulmxs/ecom-floor-mats-kit)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
